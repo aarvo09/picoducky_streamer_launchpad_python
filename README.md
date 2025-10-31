@@ -7,19 +7,19 @@ Automates your entire streaming workflow: launches apps (Discord, Steam, Spotify
 [![CircuitPython](https://img.shields.io/badge/CircuitPython-Compatible-purple.svg)](https://circuitpython.org/)
 [![Built for PicoDucky](https://img.shields.io/badge/Built%20for-PicoDucky-purple)](https://picoducky.hackclub.com/)
 
-## ✨ Features
+##  Features
 
-- 🚀 Auto-launches all streaming apps
-- 📺 Opens YouTube Studio dashboard
-- 🪟 Arranges windows: YouTube (left) + Discord (right)
-- ⚡ Plug-and-play setup
-  ## 🎬 Demo Videos
+-  Auto-launches all streaming apps
+-  Opens YouTube Studio dashboard
+- Arranges windows: YouTube (left) + Discord (right)
+- Plug-and-play setup
+  ##  Demo Videos
 
 **PicoDucky Version (main.py)**: [Watch Demo](link-to-your-demo-video)
 
 **Windows Version (notmain.py)**: [Watch Demo](link-to-your-demo-video)
 
-## 🛠️ Installation
+##  Installation
 
 ### For PicoDucky (main.py)
 
@@ -48,24 +48,25 @@ BROWSER = "brave"
 URL = "studio.youtube.com/channel/YOUR_CHANNEL_ID"
 ```
 
-## 📖 Usage
+## Usage
 
 **PicoDucky**: Plug in Pico → Wait 5 seconds → Ready to stream!
 
 **Windows**: Run `python notmain.py`
 
-## 🔧 Troubleshooting
+##  Troubleshooting
 
 - **Apps not launching?** Check app names match Windows Search exactly
 - **Windows not snapping?** Enable Windows Snap in Settings
 - **Slow PC?** Increase `time.sleep()` values in the code
 
-## � License
+##  License
 
 Free to use and modify for personal streaming setups.
 
 ---
 
-**Made with ❤️ for streamers**
+**Made for streamers**
+
 
 
