@@ -35,7 +35,7 @@ pip install pyautogui
 python notmain.py
 ```
 
-## ⚙️ Configuration
+##  Configuration
 
 Edit these variables in `main.py` or `notmain.py`:
 
@@ -67,6 +67,7 @@ Free to use and modify for personal streaming setups.
 ---
 
 **Made for streamers**
+
 
 
 
