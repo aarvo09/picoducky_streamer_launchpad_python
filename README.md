@@ -15,9 +15,8 @@ Automates your entire streaming workflow: launches apps (Discord, Steam, Spotify
 - Plug-and-play setup
   ##  Demo Videos
 
-**PicoDucky Version (main.py)**: [Watch Demo](link-to-your-demo-video)
-
-**Windows Version (notmain.py)**: [Watch Demo](link-to-your-demo-video)
+**PicoDucky Version (main.py)**: [Watch Demo](LINK NOT READY AS I HAVE NO PICO DUCK)
+**Windows Version (notmain.py)**: [Watch Demo](https://drive.google.com/drive/folders/14OtLa-s-TKp5WKKUAR0eYChublsyng9u?usp=drive_link)
 
 ##  Installation
 
@@ -67,6 +66,7 @@ Free to use and modify for personal streaming setups.
 ---
 
 **Made for streamers**
+
 
 
 
